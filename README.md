@@ -1,0 +1,1 @@
+# atlassian-space-permission-manager
